@@ -2,7 +2,7 @@
 
 <div id="github_streak" align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=g0dzZz-coder&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=g0dzZz-coder&date_format=j%20M%5B%20Y%5D&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
