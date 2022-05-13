@@ -1,9 +1,9 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<div id="depra" align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6666&color=9F2A2A&center=true&vCenter=true&lines=Depression+And+Aggression)](https://git.io/typing-svg
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6666&color=9F2A2A&center=true&vCenter=true&lines=Depression+And+Aggression)](https://git.io/typing-svg)
 
-</p>
+</div>
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
