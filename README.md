@@ -2,7 +2,8 @@
 <div id="depra" align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6666&color=3DDB77&center=true&vCenter=true&lines=Depression+And+Aggression)](https://git.io/typing-svg)
-<b>Visit the organization to see more</b>
+  
+  <b>Visit the organization to see more</b>
   
 </div>
 
