@@ -2,7 +2,8 @@
 <div id="depra" align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6666&color=3DDB77&center=true&vCenter=true&lines=Depression+And+Aggression)](https://git.io/typing-svg)
-
+<b>Visit the organization to see more</b>
+  
 </div>
 
 <!-- Social badges section -->
@@ -24,7 +25,5 @@
 <div id="github_streak" align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=g0dzZz-coder&date_format=j%20M%5B%20Y%5D&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
-  <b>Visit the organization to see more</b>
   
 </div>
